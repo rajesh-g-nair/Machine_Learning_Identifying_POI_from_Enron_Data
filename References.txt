@@ -1,0 +1,3 @@
+Udacity Discussion Forum
+Udacity Training Material
+http://scikit-learn.org/
